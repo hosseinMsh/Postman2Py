@@ -15,7 +15,7 @@ Convert your Postman collections into structured, functional Python code using t
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/postman2py.git
+git clone https://github.com/hosseinMsh/postman2py.git
 cd postman2py
 ````
 
